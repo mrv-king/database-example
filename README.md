@@ -10,4 +10,4 @@ This Windows Form application is designed for the management of the local databa
 3. Open the `Form1.cs` file where the core functionality is implemented.
 
 # Interface View
-![alt text](https://github.com/mrv-king/database-example/blob/main/interface_database.JPG =250x250)
+<img src="https://github.com/mrv-king/database-example/blob/main/interface_database.JPG" width="100" height="100">
