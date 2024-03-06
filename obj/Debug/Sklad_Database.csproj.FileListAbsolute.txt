@@ -1,0 +1,20 @@
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.exe.config
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csprojResolveAssemblyReference.cache
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.Form1.resources
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.Properties.Resources.resources
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csproj.GenerateResource.Cache
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.exe
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.pdb
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.exe
+C:\Users\NIKO\Desktop\Sklad\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.pdb
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.exe.config
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.exe
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\bin\Debug\Sklad_Database.pdb
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csproj.AssemblyReference.cache
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.Form1.resources
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.Properties.Resources.resources
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csproj.GenerateResource.cache
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.csproj.CoreCompileInputs.cache
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.exe
+C:\Users\nikgal-local\Desktop\MAIN FOLDER\C Sharp\Sklad_Database\Sklad_Database\obj\Debug\Sklad_Database.pdb
